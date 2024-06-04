@@ -61,7 +61,7 @@ We used the code from https://github.com/google-research/fixmatch with some modi
 
 The plot for SGD with Momentum and AdamW can be found in the following folder:
 
-- **[RE_RE_FixMatch/plot](https://github.com/KimYohan0317/RE_RE_FixMatch/tree/main/plot)**
+- [SGD with Momentum and AdamW](https://github.com/KimYohan0317/RE_RE_FixMatch/blob/main/plot/baseSGD_adaW_200epoch.png)
 
 Please navigate to this folder to view the image: `baseSGD_adaW_200epoch.png`.
 
