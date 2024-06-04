@@ -3,9 +3,9 @@
 ### Introduction
 This repository contains our reimplementation of FixMatch, a semi-supervised learning (SSL) method that leverages both strong and weak labels to improve classification performance. We also investigate the impact of noisy (pseudo) labels and confirmation errors on FixMatch.
 
-We used the code from https://github.com/google-research/fixmatch with some modifications. We reproduced the paper "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence". The code we used for the experiments can be found in the RE_RE_FixMatch/run_ours/ folder.
+We used the code from https://github.com/google-research/fixmatch with some modifications. We reproduced the paper "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence". The code we used for the experiments can be found in the RE_FixMatch_optimizer/run_ours/ folder.
 
-### RE_RE_FixMatch/run_ours/ file description
+### RE_FixMatch/run_ours/ file description
 
 - `Fixmatch.py`: base execution file for Fixmatch.
 - `Fixmatch_adamw.py`: the experimental execution file where the optimizer is changed to AdamW.
@@ -60,13 +60,13 @@ We used the code from https://github.com/google-research/fixmatch with some modi
 
 The plot for SGD with Momentum and AdamW can be found in the following folder:
 
-- [SGD with Momentum and AdamW](https://github.com/KimYohan0317/RE_RE_FixMatch/blob/main/plot/baseSGD_adaW_200epoch.png)
+- [SGD with Momentum and AdamW](https://github.com/KimYohan0317/RE_FixMatch_optimizer/blob/main/plot/baseSGD_adaW_200epoch.png)
 
 Please navigate to this folder to view the image: `baseSGD_adaW_200epoch.png`.
 
 ### All other plots are located in this folder
 
-- **[RE_RE_FixMatch/plot](https://github.com/KimYohan0317/RE_RE_FixMatch/tree/main/plot)**
+- **[RE_FixMatch_optimizer/plot](https://github.com/KimYohan0317/RE_FixMatch_optimizer/tree/main/plot)**
 
 This folder contains all the additional plots generated during the project. Each plot is saved as an image file and is named according to the experiment it represents. You can explore the folder to find visualizations that provide insights into the results of various analyses performed in this project.
 
