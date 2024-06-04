@@ -67,7 +67,7 @@ Please navigate to this folder to view the image: `baseSGD_adaW_200epoch.png`.
 
 ### All other plots are located in this folder
 
-- **[RE_RE_FixMatch/plot](./RE_RE_FixMatch/plot)**
+- **[RE_RE_FixMatch/plot](https://github.com/KimYohan0317/RE_RE_FixMatch/tree/main/plot)**
 
 This folder contains all the additional plots generated during the project. Each plot is saved as an image file and is named according to the experiment it represents. You can explore the folder to find visualizations that provide insights into the results of various analyses performed in this project.
 
