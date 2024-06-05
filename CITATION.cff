@@ -1,0 +1,6 @@
+@inproceedings{li2020reimplementation,
+  title={Reimplementation of FixMatch and Investigation on Noisy (Pseudo) Labels and Confirmation Errors of FixMatch},
+  author={Li, Ci and Tu, Ruibo and Zhang, Hui},
+  booktitle={ML Reproducibility Challenge 2020},
+  year={2020}
+}
