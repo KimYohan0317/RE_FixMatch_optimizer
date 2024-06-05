@@ -3,7 +3,7 @@
 ### Introduction
 This repository contains our reimplementation of FixMatch, a semi-supervised learning (SSL) method that leverages both strong and weak labels to improve classification performance. We also investigate the impact of noisy (pseudo) labels and confirmation errors on FixMatch.
 
-We used the code from https://github.com/google-research/fixmatch with some modifications. We reproduced the paper "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence". The code we used for the experiments can be found in the RE_FixMatch_optimizer/run_ours/ folder.
+We used the code from https://github.com/Celiali/FixMatch with some modifications. We reproduced the paper "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence". The code we used for the experiments can be found in the RE_FixMatch_optimizer/run_ours/ folder.
 
 ### RE_FixMatch/run_ours/ file description
 
