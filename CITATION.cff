@@ -6,8 +6,8 @@ authors:
 url: https://github.com/Celiali/FixMatch
 
 preferred-citation:
-  type: conference-paper
-  title: "RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library"
+  type: open-review-paper
+  title: "Reimplementation of FixMatch and Investigation on Noisy (Pseudo) Labels and Confirmation Errors of FixMatch"
   authors:
     - family-names: Li
       given-names: Celia
