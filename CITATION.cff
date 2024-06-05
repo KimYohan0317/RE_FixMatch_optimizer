@@ -1,6 +1,20 @@
-@inproceedings{li2020reimplementation,
-  title={Reimplementation of FixMatch and Investigation on Noisy (Pseudo) Labels and Confirmation Errors of FixMatch},
-  author={Li, Ci and Tu, Ruibo and Zhang, Hui},
-  booktitle={ML Reproducibility Challenge 2020},
-  year={2020}
-}
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: Reimplementation of FixMatch and Investigation on Noisy (Pseudo) Labels and Confirmation Errors of FixMatch
+authors:
+  - family-names: Celiali
+url: https://github.com/Celiali/FixMatch
+
+preferred-citation:
+  type: conference-paper
+  title: "RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library"
+  authors:
+    - family-names: Li
+      given-names: Celia
+    - family-names: Tu
+      given-names: Ruibo
+    - family-names: Zhang
+      given-names: Hui
+  collection-title: OpenReview
+  year: 2020
+  url: https://openreview.net/forum?id=3VXeifKSaTE
